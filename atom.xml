@@ -60,4 +60,20 @@
     
   </entry>
   
+  <entry>
+    <title>标签1</title>
+    <link href="http://yoursite.com/2017/08/18/blog/"/>
+    <id>http://yoursite.com/2017/08/18/blog/</id>
+    <published>2017-08-18T07:41:18.000Z</published>
+    <updated>2018-05-16T13:56:15.200Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
 </feed>
